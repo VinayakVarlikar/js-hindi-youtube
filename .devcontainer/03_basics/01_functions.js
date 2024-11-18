@@ -28,4 +28,8 @@ function loginUserMessage(username = "sam") {
   return `${username} just logged in`;
 }
 // console.log(loginUserMessage("Vinayak"));
-console.log(loginUserMessage("Vinayak"));
+// console.log(loginUserMessage("Vinayak"));
+
+function calculateCartPrice(num1) {
+  return num1;
+}
